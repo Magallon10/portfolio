@@ -1,4 +1,44 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-resume'
+title = "Portfolio Sergio Magallón"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Zaragoza"
+email = "magallonclase@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Sergio"
+lastName = "Magallón"
+profileImage = "img/TechChat.png"
+showQr = false
+showContact = true
+showBoards  = true
+showCertifications = true
+showSocializations = true
+sections = ["publications","creations","contributions","blog"]
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+    name = "Instagram"
+    link = "https://www.instagram.com/el_maga110/profilecard/?igsh=MTdud213Y3hvY3M3aA=="
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/Magallon10"
+
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
