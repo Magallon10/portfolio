@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>http://localhost:1313/titulos/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
     <priority>0.6</priority>
   </url><url>
@@ -17,8 +17,16 @@
     <loc>http://localhost:1313/projects/contributions/deploy-triggers/</loc>
     <priority>0.8</priority>
   </url><url>
-    <loc>http://localhost:1313/publications/alldaydevops/</loc>
+    <loc>http://localhost:1313/titulos/eso/</loc>
     <lastmod>2017-09-08T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/titulos/gradomedio/</loc>
+    <lastmod>2021-09-08T00:00:00+00:00</lastmod>
+    <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/titulos/gradosuperior/</loc>
+    <lastmod>2023-09-08T00:00:00+00:00</lastmod>
     <priority>0.8</priority>
   </url><url>
     <loc>http://localhost:1313/projects/contributions/shields-docker/</loc>
