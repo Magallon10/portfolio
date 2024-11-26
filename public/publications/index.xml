@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Títulos on Portfolio Sergio Magallón</title>
+    <link>http://localhost:1313/publications/</link>
+    <description>Recent content in Títulos on Portfolio Sergio Magallón</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IES Bajo Aragón</title>
+      <link>http://localhost:1313/publications/alldaydevops/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/alldaydevops/</guid>
+      <description>&lt;p&gt;This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.&lt;/li&gt;&#xA;&lt;li&gt;Favor deep end-to-end accomplishments over broad but incremental steps forward. Focus on taking the right teams far before encouraging broad adoption.&lt;/li&gt;&#xA;&lt;li&gt;Centralize the platforms and tools that your teams shouldn’t be thinking about. Provide foundational services/commodities and let teams stay on purpose.&lt;/li&gt;&#xA;&lt;li&gt;Incorporate contributions from everyone; don’t stifle autonomy. Stay open to new ways of working.&lt;/li&gt;&#xA;&lt;li&gt;Challenge security policies, but respect intentions. Find new ways to enforce concerns without abandoning precaution.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
