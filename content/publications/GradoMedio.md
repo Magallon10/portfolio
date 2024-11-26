@@ -1,12 +1,11 @@
 ---
-title: "IES Bajo Aragón"
-date: 2017-09-08
-date2: 2021-06-21
-pubtype: "Educación Secundaria Obligatoria"
+title: "CPIFP Bajo Aragón"
+date: 2021-09-08
+date2: 2023-06-21
+pubtype: "Grado Medio de Sistemas Microinformáticos y Redes"
 featured: true
-description: "This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible."
-fact: "Interesting little tidbit shown below image on summary and detail page"
-weight: 400
+description: ""
+weight: 401
 sitemap:
   priority : 0.8
 ---

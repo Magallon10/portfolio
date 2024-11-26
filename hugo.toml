@@ -1,5 +1,5 @@
 title = "Portfolio Sergio Magallón"
-baseURL = "https://Magallon10/github.io/portfolio/"
+baseURL = "https://example.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
