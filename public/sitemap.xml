@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/plantillajason/</loc>
+    <lastmod>2024-10-14T11:01:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/explicacionmarkdown/</loc>
+    <lastmod>2020-01-07T16:47:30+00:00</lastmod>
+    <priority>0.6</priority>
+  </url><url>
     <loc>http://localhost:1313/titulos/</loc>
     <lastmod>2020-01-07T16:47:30+00:00</lastmod>
     <priority>0.6</priority>
@@ -36,6 +43,9 @@
     <loc>http://localhost:1313/projects/contributions/schema-org/</loc>
     <lastmod>2020-01-07T17:08:21+00:00</lastmod>
     <priority>0.8</priority>
+  </url><url>
+    <loc>http://localhost:1313/programacion/</loc>
+    <lastmod>2024-11-26T22:18:25+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/docker/</loc>
     <lastmod>2020-01-07T17:09:26+00:00</lastmod>

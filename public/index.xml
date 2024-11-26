@@ -6,8 +6,15 @@
     <description>Recent content in Home on Portfolio Sergio Magallón</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 11:01:25 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PlantillaJason</title>
+      <link>http://localhost:1313/plantillajason/</link>
+      <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
+      <guid>http://localhost:1313/plantillajason/</guid>
+      <description>&lt;p&gt;#Listado de de canales&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Atlassian Deployment Triggers</title>
       <link>http://localhost:1313/projects/contributions/deploy-triggers/</link>

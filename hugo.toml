@@ -19,8 +19,6 @@ showContact = true
 showBoards  = true
 showCertifications = true
 showSocializations = true
-sections = ["titulos","contributions","blog"]
-
 
 [params.google]
 
