@@ -19,7 +19,7 @@ showContact = true
 showBoards  = true
 showCertifications = true
 showSocializations = true
-sections = ["publications","creations","contributions","blog"]
+sections = ["titulos","contributions","blog"]
 
 
 [params.google]
